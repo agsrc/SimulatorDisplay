@@ -1,0 +1,27 @@
+{
+	"instructionSet": {
+		"instruction 0": "0000010100001101",
+		"instruction 1": "0000100100011111",
+		"instruction 2": "0000110100101110",
+		"instruction 3": "1010010000101111",
+		"instruction 4": "1010100011110110",
+		"instruction 5": "0000000000000001",
+		"instruction 6": "0000000000000010",
+		"instruction 7": "0000000000000100",
+		"instruction 8": "0000000000000101",
+		"instruction 9": "0000000000000110",
+		"instruction 10": "0000000000000111",
+		"instruction 11": "0000000000001000",
+		"instruction 12": "0000000000001001",
+		"instruction 13": "0000000000001010",
+		"instruction 14": "00000000000001011",
+		"instruction 15": "00000000000001100",
+		"instruction 16": "00000000000001101",
+		"instruction 17": "00000000000001110",
+		"instruction 18": "00000000000001111",
+		"instruction 19": "00000000000000011"
+
+
+	}
+
+}

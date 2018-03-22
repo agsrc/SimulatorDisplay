@@ -1,0 +1,49 @@
+{
+  "instructionSet": {
+    "instruction 0": "0000010100100001",
+    "instruction 1": "0000100100011111",
+    "instruction 2": "0000110100101110",
+    "instruction 3": "1010010000101111",
+    "instruction 4": "1010100011110110",
+    "instruction 5": "0010100100010000",
+    "instruction 6": "0010110100010000",
+    "instruction 7": "0010100100010000",
+    "instruction 8": "0011010100010000",
+    "instruction 9": "0011100100010000",
+    "instruction 10":"0011110100010000",
+    "instruction 11":"0100000100010000",
+    "instruction 12":"0100010100010000",
+    "instruction 13":"0000100100010000",
+    "instruction 14":"0001010100010000",
+    "instruction 15":"0001100100010000",
+    "instruction 16":"0011110100010000",//SIR
+    "instruction 17":"0101000010010001",//MLT
+    "instruction 18":"0101010010010001",//DVD
+    "instruction 19":"0101100110010001",
+    "instruction 20":"0101110110010001",
+    "instruction 21":"0110000110010001",
+    "instruction 22":"0110010100010001",//NOT
+    "instruction 23":"0111110111000011",
+    "instruction 24":"1000000111000011",
+    "instruction 25":"1111010100000000",
+    "instruction 26":"1111100100000001",// end of instructions
+    "instruction 27":"0000000000000001",
+    "instruction 28":"0000000000000010",
+    "instruction 29":"0000000000000011",
+    "instruction 30":"0000000000000100",
+    "instruction 31":"0000000000000101",
+    "instruction 32":"0000000000000110",
+    "instruction 33":"0000000000000111",
+    "instruction 34":"0000000000001000",
+    "instruction 35":"0000000000001001",
+    "instruction 36":"0000000000001010",
+    "instruction 37":"0000000000001011",
+    "instruction 38":"0000000000001100",
+    "instruction 39":"0000000000001101",
+    "instruction 40":"0000000000001110",
+    "instruction 41":"0000000000001111"
+
+
+  }
+
+}
